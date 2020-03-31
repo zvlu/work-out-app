@@ -1,5 +1,7 @@
 # work-out-app
+A Workout Tracer application using Mongo database with a Mongoose schema and handle routes with Express.
 
+URL:  https://sheltered-depths-87134.herokuapp.com/
 
 ### User Story
 
